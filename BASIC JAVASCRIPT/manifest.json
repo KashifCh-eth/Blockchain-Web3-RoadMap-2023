@@ -1,0 +1,11 @@
+{
+    "manifest_version" : 3 ,
+    "version" : 1.0,
+    "name" : "traker_leads",
+    "actio":{
+        "default_popup" : "index.html",
+        "default_icon"  : "icon.png"
+    }
+
+
+}
