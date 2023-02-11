@@ -1,0 +1,15 @@
+{
+  "name": "node_course",
+  "version": "1.0.0",
+  "description": "this course for node",
+  "main": "start",
+  "scripts": {
+    "test": "start build"
+  },
+  "author": "kashif sattar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": []
+}
